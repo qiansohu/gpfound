@@ -1,7 +1,9 @@
 
 /*用于对通达信导出的股票日线数据文件处理。
-     取得文件名，然后对每个文件中的每一行加入股票代码，以便导入到gprx数据或gprxfuquan数据表中
-  param1 D:/gpnew/fuquan 为需要处理的txt所在的目录
+     取得文件名，然后对每个文件中的每一行加入股票代码，
+     以便导入到gprx数据或gprxfuquan数据表中
+  param1  D:/gpnew/fuquan 为需要处理的txt所在的目录.
+  not more param
 */
 
 
