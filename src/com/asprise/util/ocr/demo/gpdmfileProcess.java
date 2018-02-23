@@ -1,6 +1,6 @@
 package com.asprise.util.ocr.demo;
 
-/*
+/* eagleqian submit to github 20180223
  * 该java用于对每日采集后的文件分开sc文件或 股票代码的文件
  * 进行每499个文件一个目录的归档，以便上载百度云
  * 
