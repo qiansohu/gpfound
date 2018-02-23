@@ -7,6 +7,8 @@
 package com.asprise.util.ocr.demo;
 
 import java.awt.image.BufferedImage;
+
 import java.io.BufferedReader;
+
 import java.io.BufferedWriter;
 
